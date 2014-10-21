@@ -33,3 +33,9 @@ If you have created a textarea and the value of class, such as “editor”
 used with the **$(“.editor”).jqte();** will be enough to write script.
 
 Of course you can also use a different attribute value.
+
+Installation
+-------------------
+```
+bower install jqueryte
+```
